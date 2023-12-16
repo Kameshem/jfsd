@@ -1,4 +1,5 @@
 2.Write a program that given number is positive or negative ?
+
 import java.util.Scanner;
 public class Main{
 public static void main(String[] args) 
